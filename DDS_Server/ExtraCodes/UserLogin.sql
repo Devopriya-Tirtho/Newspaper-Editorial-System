@@ -1,0 +1,1 @@
+select * from Admin_Log@site_link;
